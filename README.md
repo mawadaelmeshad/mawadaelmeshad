@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mawadah Elmashad</h1>
+<h1 align="center" style="color: pink;">Hi 👋, I'm Mawadah Elmashad</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React Js**
