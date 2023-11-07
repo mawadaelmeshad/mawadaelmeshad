@@ -5,10 +5,14 @@
 
 - 📫 How to reach me **mawadahelmashad@std.mans.edu.eg**
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+I am a computer science student who is very interested in problem solving and front end development ,I love learning new things and i love gaining experiences through my path in life.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mawadah elmashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mawadah elmashad" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mawadadodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mawadadodo" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mawadah elmashad](https://www.linkedin.com/in/mawadah-elmashad-358b7322a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mawadah elmashad" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/mawadadodo](https://codeforces.com/profile/mawadadodo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mawadadodo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
