@@ -11,8 +11,7 @@ I am a computer science student who is very interested in problem solving and fr
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mawadah elmashad](https://www.linkedin.com/in/mawadah-elmashad-358b7322a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mawadah elmashad" height="30" width="40" /></a>
-<a href="[https://codeforces.com/profile/mawadadodo](https://codeforces.com/profile/mawadadodo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mawadadodo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mawadah-elmashad-358b7322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mawadah elmashad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
